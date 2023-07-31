@@ -8,7 +8,8 @@ plotly
 
 librosa
 resampy
-
+glob2
+pydub
 
 fastapi
 uvicorn
