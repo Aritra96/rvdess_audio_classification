@@ -2,7 +2,7 @@
 
 ### Summary
 
-Audio classification for different emotions in speech using Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS).
+Audio classification for different emotions in speech (AKA Speech Emotion Recognition or SER) using Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS).
 
 ### About Data
 
